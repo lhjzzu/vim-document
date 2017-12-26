@@ -1,6 +1,4 @@
 ...e waiting for content before the site can go live...
-collection
-collection
 ...If you are content with this, let's go ahead with it...
 ...We'll launch as soon as we have the content...
 Select form here to here
@@ -29,3 +27,5 @@ the_vim_way
 第三章:插入模式.md
 第二章:普通模式.md
 第四章:可视模式.mds章:命令行模式.md
+
+内部的
