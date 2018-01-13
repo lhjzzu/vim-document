@@ -1,3 +1,3 @@
 # vim-document
-this is a series of sample documents about vim
+        this is a series of sample documents about vim
 
