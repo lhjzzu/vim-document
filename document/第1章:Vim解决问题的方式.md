@@ -178,7 +178,7 @@ s + <Esc>   var foo = "method(" + argument1+","+argument2+")";
 在行内查找上一指定字符     F{char}                ;      ,
 在文档中查找下一处匹配项   /pattern<CR>           n      N在文档中查找上一处匹配项   ?pattern<CR>           n      N
 执行替换                :s/target/replacement  &      u
-执行一系列修改           qx{changes}q           @x     u  (暂时不理解这个命令)
+执行一系列修改           qx{changes}q           @x     u  
 ```
 
 ## 技巧 5 查找并手动替换
